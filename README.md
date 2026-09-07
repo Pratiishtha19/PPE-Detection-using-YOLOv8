@@ -195,5 +195,3 @@ I learned how to integrate a custom-trained YOLOv8 model with a Streamlit applic
 ## 👤 Author
 
 **Pratishtha Gadwanshi**
-
-Technocrats Institute of Technology
