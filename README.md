@@ -95,7 +95,7 @@ The model detects objects and provides information such as:
 ```text
 PPE-Detection-YOLOv8/
 │
-├── milestone 2.py
+├── app.py
 ├── best.pt
 ├── requirements.txt
 └── README.md
@@ -137,10 +137,10 @@ numpy
 Run the Streamlit application using:
 
 ```bash
-streamlit run "milestone 2.py"
+streamlit run "app.py"
 ```
 
-Replace `milestone 2.py` with the actual name of your Python file if different.
+Replace `app.py` with the actual name of your Python file if different.
 
 The application will open in your web browser.
 
